@@ -77,9 +77,10 @@
 	}
 
 	.lead{
-		font-size: 1.6rem;
+		font-size: 1.9rem;
 		font-family: serif;
 		font-style: italic;
+		background-color: rgba( 0, 0, 0 , 0.41);
 	}
 
 	footer .footer-cols{
